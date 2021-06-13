@@ -1,0 +1,55 @@
+.single-post-info-container {
+  background-color: rgba(255, 255, 255, 0.3);
+  width: 95%;
+  min-height: 40vh;
+  margin: 20px auto;
+  box-shadow: 2px 0 3px 1px black;
+  font-size: 18px;
+  padding: 0 0 10px 0;
+}
+@media screen and (min-width: 700px) {
+  .single-post-info-container {
+    width: 70%;
+  }
+}
+@media screen and (min-width: 1000px) {
+  .single-post-info-container {
+    width: 60%;
+  }
+}
+.delete-section-container {
+  height: 505.5px;
+}
+.single-post-info-container h1 {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+.single-post-info-container span {
+  color: hotpink;
+}
+.single-post-info-container h3,
+h6,
+p {
+  background-color: rgba(255, 255, 255, 0.1);
+  width: 80%;
+  font-size: 20px;
+  border-radius: 10px;
+  margin: 15px auto;
+}
+.single-post-info-container p {
+  min-height: 60px;
+}
+.single-post-info-container h5 {
+  font-size: 20px;
+}
+.delete-btn {
+  border-radius: 10px;
+  background-color: hotpink;
+  opacity: 0.6;
+  border: none;
+}
+.delete-btn:hover {
+  opacity: 1;
+}
+.delete-btn:active {
+  transform: scale(0.8);
+}

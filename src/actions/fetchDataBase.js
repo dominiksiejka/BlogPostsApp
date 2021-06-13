@@ -1,6 +1,6 @@
 import axios from "axios";
 const fetchData = axios.create({
-  baseURL: "http://reduxblog.herokuapp.com",
+  baseURL: "https://reduxblog.herokuapp.com",
   params: {
     key: "dominik12345",
   },

@@ -2,7 +2,7 @@
 
 ## Demo
 
-[**click live demo of the project**](https://dominiksiejka.github.io/BillSplitterApp)
+[**click live demo of the project**](https://dominiksiejka.github.io/BlogPostsApp)
 
 ![BlogPostsApp preview](./assets/billsplitter.jpg)
 
@@ -35,7 +35,7 @@ There is navigation menu at the top of the page. You can add new posts and delet
 with BASH
 
 # clone the remote repo to your local one
-$ git clone https://github.com/dominiksiejka/BillSplitterApp.git
+$ git clone https://github.com/dominiksiejka/BlogPostsApp.git
 
 # open the index.html file or use your code editor to open it with live server
 
@@ -48,4 +48,4 @@ $ git clone https://github.com/dominiksiejka/BillSplitterApp.git
 
 ## License
 
-- MIT © [Dominik Siejka ](https://github.com/dominiksiejka/BillSplitterApp)
+- MIT © [Dominik Siejka ](https://github.com/dominiksiejka/BlogPostsApp)

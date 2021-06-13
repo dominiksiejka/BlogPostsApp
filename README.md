@@ -4,7 +4,7 @@
 
 [**click live demo of the project**](https://dominiksiejka.github.io/BlogPostsApp)
 
-![BlogPostsApp preview](./assets/blogposts.jpg)
+![BlogPostsApp preview](./src/assets/blogposts.jpg)
 
 ## Table of Contents
 

@@ -25,9 +25,11 @@ There is navigation menu at the top of the page. You can add new posts and delet
 
 ## Built with
 
-- HTML5
-- CSS/SASS
-- Vanilla JavaScript
+- React
+- React Router
+- CSS
+- Redux
+- Redux Form
 
 ## Setup
 

@@ -14,7 +14,7 @@ import ShowPost from "../components/ShowPost";
 import "./App.css";
 const App = () => {
   return (
-    <Router>
+    <Router basename='/BlogPostsApp'>
       <div className='container'>
         <nav className='main-menu'>
           <li className='main-menu__item'>
